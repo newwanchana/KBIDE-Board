@@ -153,4 +153,18 @@
     "git": ""
   }
 
+    {
+    "name": "puppybot7",
+    "version": "3.0.2",
+    "title": "Board puppybot7",
+    "description": "Board puppybot7",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/PuppyBot6/PuppyBot7.zip",
+    "type": "board",
+    "status": "published",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/PuppyBot6/PuppyBot7.png",
+    "git": ""
+  }
+
 ]
