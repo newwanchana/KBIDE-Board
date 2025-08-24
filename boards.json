@@ -6,10 +6,10 @@
     "description": "Board NKP_V2",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/NKP_V2/NKP_V2.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/NKP_V2/NKP_V2.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/NKP_V2/NKP_V2.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/NKP_V2/NKP_V2.png",
     "git": ""
   },
 
@@ -20,10 +20,10 @@
     "description": "Board PuppyBot",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot/PuppyBot.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/PuppyBot/PuppyBot.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot/PuppyBot.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/PuppyBot/PuppyBot.png",
     "git": ""
   },
 
@@ -34,10 +34,10 @@
     "description": "Board ESPRobotV2",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/ESPRobotV2/ESPRobotV2.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/ESPRobotV2/ESPRobotV2.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/ESPRobotV2/ESPRobotV2.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/ESPRobotV2/ESPRobotV2.png",
     "git": ""
   },
 
@@ -48,10 +48,10 @@
     "description": "Board LineSonic",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/LineSonic/LineSonic.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/LineSonic/LineSonic.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/LineSonic/LineSonic.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/LineSonic/LineSonic.png",
     "git": ""
   },
 
@@ -62,10 +62,10 @@
     "description": "Board NKP_ONE",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/NKP_ONE/NKP_ONE.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/NKP_ONE/NKP_ONE.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/NKP_ONE/NKP_ONE.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/NKP_ONE/NKP_ONE.png",
     "git": ""
   },
 
@@ -76,10 +76,10 @@
     "description": "Board NKP_WIFI",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/NKP_WIFI/NKP_WIFI.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/NKP_WIFI/NKP_WIFI.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/NKP_WIFI/NKP_WIFI.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/NKP_WIFI/NKP_WIFI.png",
     "git": ""
   },
 
@@ -90,10 +90,10 @@
     "description": "Board Rapbit32",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/Rapbit32/Rapbit32.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/Rapbit32/Rapbit32.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/Rapbit32/Rapbit32.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/Rapbit32/Rapbit32.png",
     "git": ""
   },
 
@@ -104,10 +104,10 @@
     "description": "Board RapbitPro",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/RapbitPro/RapbitPro.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/RapbitPro/RapbitPro.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/RapbitPro/RapbitPro.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/RapbitPro/RapbitPro.png",
     "git": ""
   },
 
@@ -118,10 +118,10 @@
     "description": "Board GenieBot",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/GenieBot/GenieBot.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/GenieBot/GenieBot.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/GenieBot/GenieBot.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/GenieBot/GenieBot.png",
     "git": ""
   },
 
@@ -132,10 +132,10 @@
     "description": "Board GenieBotV2",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/GenieBotV2/GenieBotV2.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/GenieBotV2/GenieBotV2.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/GenieBotV2/GenieBotV2.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/GenieBotV2/GenieBotV2.png",
     "git": ""
   },
 
@@ -146,10 +146,10 @@
     "description": "Board puppybot6",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot6/PuppyBot6.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/PuppyBot6/PuppyBot6.zip",
     "type": "board",
     "status": "published",
-    "image": "https://woottinan.github.io/kbide-board-repo/boards/PuppyBot6/PuppyBot6.png",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/PuppyBot6/PuppyBot6.png",
     "git": ""
   }
 
