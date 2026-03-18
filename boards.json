@@ -165,6 +165,20 @@
     "status": "published",
     "image": "https://newwanchana.github.io/KBIDE-Board/boards/PuppyBot7/PuppyBot7.png",
     "git": ""
+  },
+
+  {
+    "name": "ipst-wifi",
+    "version": "1.1.0",
+    "title": "Board ipst-wifi",
+    "description": "Board ipst-wifi",
+    "author": "INEX",
+    "components": [],
+    "download_url": "https://newwanchana.github.io/KBIDE-Board/boards/ipst-wifi/ipst-wifi.zip",
+    "type": "board",
+    "status": "published",
+    "image": "https://newwanchana.github.io/KBIDE-Board/boards/ipst-wifi/IPST-WiFi.png",
+    "git": ""
   }
 
 ]
